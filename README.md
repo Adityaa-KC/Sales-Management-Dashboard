@@ -2,7 +2,7 @@
 
 SmartRetail is a Python and Streamlit application for managing retail sales and inventory, viewing business KPIs, and exploring transaction data with machine-learning-based analytics.
 
-> **Live demo:** Replace this line with your deployed Streamlit URL, for example `https://sales-management-dashboard.streamlit.app/`.
+<https://sales-management-dashboard.streamlit.app/>
 
 ## Overview
 
